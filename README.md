@@ -16,3 +16,4 @@ This repository contains the completed DataVine Analytics summative lab.
 3. Regional Crime Pattern Analysis using K-Means and Gaussian Mixture Models
 
 The notebook includes data preparation, visualization, model evaluation, and business-focused interpretations.
+Project completed as part of the DataVine Analytics summative project.
