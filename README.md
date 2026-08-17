@@ -17,3 +17,4 @@ This repository contains the completed DataVine Analytics summative lab.
 
 The notebook includes data preparation, visualization, model evaluation, and business-focused interpretations.
 Project completed as part of the DataVine Analytics summative project.
+It demonstrates our team's collaborative effort and practical application of data science, machine learning, and analytical problem-solving skills.
